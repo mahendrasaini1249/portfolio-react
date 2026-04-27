@@ -31,7 +31,7 @@ const PROJECTS = [
     title: "Blinkit Quick-E-Commerce ",
     description:
       "I created blinkit e-Commerce websiteb a fully responsive and clean UI using HTML, CSS, JavaScript, and Bootstarp",
-    image: "public/img/download.png",
+    image: "/img/download.png",
     tech: ["HTML", "CSS", "JavaScript", "Bootstarp"],
     github: "https://github.com/mahendrasaini1249/blinkit-website",
     demo: "https://instent-blinkit-web.netlify.app/",
@@ -41,7 +41,7 @@ const PROJECTS = [
     title: "Food service - Restorent",
     description:
       "This is a morden responsive restorent website creating using Next.js, Tailwind CSS & JavaScript it includes a hero section , menu section , about section, reservation from c, and a clean UI for a smooth user experience.  ",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjZWxF857wSQn-JXkXtibHxZpX4xmyj1p6tA&s",
+    image: "public/img/78860384.jpg",
     tech: ["HTML", "CSS", "JavaScript", "Tailwind CSS", "next.js"],
     github: "https://github.com/mahendrasaini1249/Food-service-website",
     demo: "https://restoransproject.netlify.app/",
@@ -357,7 +357,7 @@ function About() {
             {/* Image */}
             <div className="relative w-full h-full rounded-2xl overflow-hidden border border-white/10">
               <img
-                src="public/img/image.png"
+                src="/img/image.png"
                 alt="Mahendra Kumar"
                 className="w-full h-full object-cover"
               />
