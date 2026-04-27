@@ -41,7 +41,7 @@ const PROJECTS = [
     title: "Food service - Restorent",
     description:
       "This is a morden responsive restorent website creating using Next.js, Tailwind CSS & JavaScript it includes a hero section , menu section , about section, reservation from c, and a clean UI for a smooth user experience.  ",
-    image: "public/img/78860384.jpg",
+    image: "/img/78860384.jpg",
     tech: ["HTML", "CSS", "JavaScript", "Tailwind CSS", "next.js"],
     github: "https://github.com/mahendrasaini1249/Food-service-website",
     demo: "https://restoransproject.netlify.app/",
