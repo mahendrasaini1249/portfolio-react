@@ -66,6 +66,26 @@ const PROJECTS = [
     github: "https://github.com/mahendrasaini1249/blinkit-ecom-dummyapi/tree/master",
     demo: "https://blinkit-ecom.netlify.app/",
   },
+  {
+    id: 7,
+    title: "Royal Cafe & Restorent",
+    description:
+      "Built a fully responsive **Cafe & Restorent website** using **HTML, CSS, JavaScript, React.js, Tailwind CSS, Media Queries, Dynamic Routing, Reusable Components, Dummy Data Integration, and Slick Slider for smooth product sliders**, focusing on **fast rendering, clean UI, and optimized frontend performance",
+    image: "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=800&q=80",
+    tech: ["HTML", "CSS", "JavaScript", "React.js", "dummy data", "AI tool Emergent"],
+    github: "https://github.com/mahendrasaini1249/Royal-cafe-website#",
+    demo: "https://royal-cafe-website.netlify.app/",
+  },
+  {
+    id: 8,
+    title: "HRMS Admin-Panel",
+    description:
+      "Built a fully responsive **Blinkit Clone** using **HTML, CSS, JavaScript, React.js, Tailwind CSS &, Media Queries, Dynamic Routing, Reusable Components, Dummy API Integration, Slick Slider for smooth product sliders**, focusing on **fast rendering, clean UI, and optimized frontend performance",
+    image: "https://cdn.dribbble.com/userupload/11920406/file/original-49ce723a33d6ab210de67479fa7552c3.png?format=webp&resize=400x300&vertical=center",
+    tech: ["HTML", "CSS", "JavaScript", "React.js", "dummy data", "AI tool OpenCode"],
+    github: "https://github.com/mahendrasaini1249/HRMS-admin-panel",
+    demo: "https://hrms-admin-panel.netlify.app/dashboard",
+  },
 
 ];
 
